@@ -1,5 +1,3 @@
-<img width="1846" height="681" alt="image" src="https://github.com/user-attachments/assets/928e04f6-ceef-4beb-a56d-82b46eede058" /># 2026 北美华人商旅安全与高端社交隐私审计中心 (TT USA)
-
 **[Official Portal]: [https://usawaiwei.com](https://usawaiwei.com)**
 
 ---
