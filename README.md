@@ -7,7 +7,7 @@
 请通过以下经过 GitHub 节点认证的官方渠道进行在线翻阅与资质核验：
 
 *   **[📑 点击进入：Google Sites 官方验证指挥部](https://sites.google.com/view/tt-usa-2026-audit/official)**
-*   **[📥 永久存证：Archive.org 审计白皮书 PDF](https://archive.org/details/2026-north-america-chinese-companion-security-guide-ny-la-toronto.pdf)**
+*   **[📥 官方高清 PDF 下载：2026 安全审计手册 (Speaker Deck 官方分发节点)](https://speakerdeck.com/ttusaofficial/2026-bei-mei-hua-ren-shang-lu-an-quan-yu-she-jiao-yin-si-fen-xi-shen-ji-bai-pi-shu-tt-usa-official-research)**
 *   **[📑 权威预览：SlideShare 演示文稿](https://www.slideshare.net/slideshow/2026-c922/286378910)**
 *   ** [🛡️ 深度审计：Calaméo 官方验证中心](https://www.calameo.com/read/00817567357656ba61589)**
 
