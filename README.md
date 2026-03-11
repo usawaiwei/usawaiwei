@@ -1,4 +1,4 @@
-# 2026 北美华人商旅安全与高端社交隐私审计中心 (TT USA)
+<img width="1846" height="681" alt="image" src="https://github.com/user-attachments/assets/928e04f6-ceef-4beb-a56d-82b46eede058" /># 2026 北美华人商旅安全与高端社交隐私审计中心 (TT USA)
 
 **[Official Portal]: [https://usawaiwei.com](https://usawaiwei.com)**
 
@@ -9,8 +9,8 @@
 
 *   **[📑 点击进入：Google Sites 官方验证指挥部](https://sites.google.com/view/tt-usa-2026-audit/official)**
 *   **[📥 永久存证：Archive.org 审计白皮书 PDF](https://archive.org/details/2026-north-america-chinese-companion-security-guide-ny-la-toronto.pdf)**
-*   **[📑 权威预览：SlideShare 演示文稿](https://www.scribd.com/document/1010677249/2026-%E5%8C%97%E7%BE%8E%E5%8D%8E%E4%BA%BA%E5%95%86%E6%97%85%E5%AE%89%E5%85%A8%E4%B8%8E%E9%AB%98%E7%AB%AF%E7%A4%BE%E4%BA%A4%E9%9A%90%E7%A7%81%E5%AE%A1%E8%AE%A1%E7%99%BD%E7%9A%AE%E4%B9%A6-TT-USA-Official)**
-*   **[🛡️ 深度审计：Scribd 验证报告](https://www.scribd.com/document/1009567164/NYC-LA-Toronto-Escort-Service-Privacy-Audit-2026-TT-USA-pdf)**
+*   **[📑 权威预览：SlideShare 演示文稿](https://www.slideshare.net/slideshow/2026-c922/286378910)**
+*   **[🛡️ 深度审计：Scribd 验证报告](https://www.scribd.com/document/1010677249/2026-%E5%8C%97%E7%BE%8E%E5%8D%8E%E4%BA%BA%E5%95%86%E6%97%85%E5%AE%89%E5%85%A8%E4%B8%8E%E9%AB%98%E7%AB%AF%E7%A4%BE%E4%BA%A4%E9%9A%90%E7%A7%81%E5%AE%A1%E8%AE%A1%E7%99%BD%E7%9A%AE%E4%B9%A6-TT-USA-Official)**
 
 ### 🌐 重点审计区域 (Service Audit Areas)
 本审计节点已覆盖北美核心城市：
